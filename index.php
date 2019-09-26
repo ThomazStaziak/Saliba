@@ -1,8 +1,18 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148828985-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-148828985-1');
+</script>
+
   <meta charset="utf-8">
-  <title>Instituto Saliba</title>
+  <title>Odontologia Saliba</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -59,7 +69,7 @@
 									</button>
                 <!-- Brand -->
                 <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                  <h1><span><b>Instituto</b></span> Saliba</h1>
+                  <h1><span><b>Odontologia</b></span> Saliba</h1>
 								</a>
               </div>
               <!-- Collect the nav links, forms, and other content for toggling -->
@@ -121,7 +131,7 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1"><br><br>Instituto Saliba</h2>
+                  <h2 class="title1"><br><br>Odontologia Saliba</h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -202,7 +212,7 @@
               <p>
                 Há três décadas e meia realizando atendimentos individuais e proporcionando qualidade e satisfação aos seus clientes. O consultório está localizado na Vila Mariana e conta com fácil acesso ao Metrô Santa Cruz e também a ônibus de diversas regiões. Para atender todos os públicos, também oferecemos estacionamento no local durante o período de consulta.
               </p>
-              <p> O doutor Jorge Yazigi Saliba (CROSP 25259), fundador do Instituto Saliba, possui mais de 35 anos no ramo da odontologia, com um objetivo: fazer as pessoas sorrirem! É formado em odontologia pela Universidade de São Paulo (FOUSP) e para seus clientes, é muito mais que apenas um dentista, torna-se amigo. É especialista em lentes de contato, facetas, restaurações, próteses, endodontia, periodontia e implantes.
+              <p> O doutor Jorge Yazigi Saliba (CROSP 25259), fundador da Odontologia Saliba, possui mais de 35 anos no ramo da odontologia, com um objetivo: fazer as pessoas sorrirem! É formado em odontologia pela Universidade de São Paulo (FOUSP) e para seus clientes, é muito mais que apenas um dentista, torna-se amigo. Clínico geral com área de atuação em lentes de contato, facetas, restaurações, próteses, endodontia, periodontia e implantes.
               
             </div>
           </div>
@@ -383,10 +393,10 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="wellcome-text">
               <div class="well-text text-center">
-               <h2>Instituto Saliba+</h2> 
+               <h2>Odontologia Saliba+</h2> 
                <br>
                 <p>
-                <iframe width="1000" height="600" src="https://www.youtube.com/embed/heSXpFC4GYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe width="1000" height="600" src="https://www.youtube.com/embed/vjevAQ15AC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </p>
               </div>
             </div>
@@ -459,7 +469,7 @@
                 <div id="check3" class="panel-collapse collapse ">
                   <div class="panel-body">
                     <p>
-                     Uma das perguntas que muitos pacientes fazem é quanto tempo duram a lentes de contato dental. A técnica consiste na colocação de pequenas lâminas na frente dos dentes que podem mudar a cor, formato, tamanho, ou comprimento dos dentes, tendo um aspecto final de dentes naturais muito bem cuidados e sem desgastes. <br> Segundo especificações técnicas a média de tempo de duração gira torno de 5 a 10 anos, porém, esse resultado varia de paciente para paciente. Isto porque mesmo que tenha sido realizado um trabalho de qualidade, sem a higiene e cuidados adequados, mesmo que a lente seja de um material resistente pode correr o risco de danificação. <br> Aqui no Instituto Saliba nos orientamos e fazemos a prevenção antes de colocar as lentes de contato. Além de seguir todas orientações prescritas, ressaltamos também a necessidade de consultas periódicas a fim de manter a preservação dos trabalhos realizados e boa aparência de seu sorriso.
+                     Uma das perguntas que muitos pacientes fazem é quanto tempo duram a lentes de contato dental. A técnica consiste na colocação de pequenas lâminas na frente dos dentes que podem mudar a cor, formato, tamanho, ou comprimento dos dentes, tendo um aspecto final de dentes naturais muito bem cuidados e sem desgastes. <br> Segundo especificações técnicas a média de tempo de duração gira torno de 5 a 10 anos, porém, esse resultado varia de paciente para paciente. Isto porque mesmo que tenha sido realizado um trabalho de qualidade, sem a higiene e cuidados adequados, mesmo que a lente seja de um material resistente pode correr o risco de danificação. <br> Aqui no Odontologia Saliba nos orientamos e fazemos a prevenção antes de colocar as lentes de contato. Além de seguir todas orientações prescritas, ressaltamos também a necessidade de consultas periódicas a fim de manter a preservação dos trabalhos realizados e boa aparência de seu sorriso.
                     </p>
                   </div>
                 </div>
@@ -562,7 +572,7 @@
               <div class="well-text text-center">
                 <h2>Conheça nosso Blog</h2>
                 <p>
-                 Clique <a href="https://institutosaliba.blogspot.com/"><b>aqui</b></a> e veja notícias, dicas, curiosidades e muito mais.
+                 Clique <a href="https://odontologiasaliba.blogspot.com/"><b>aqui</b></a> e veja notícias, dicas, curiosidades e muito mais.
                 </p>
               </div>
             </div>
@@ -649,7 +659,7 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="img/parceiros/raissa-1.jpg">
-                      <h4>Raissa Aruajo</h4>
+                      <h4>Raissa Araújo</h4>
                       <span>Modelo</span>
                     </a>
                   </div>
@@ -799,7 +809,7 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  instituto.saliba@gmail.com<br>
+                  odontologiasaliba@gmail.com<br>
                   <span> www.esteticaoralsaliba.com.br</span>
                 </p>
               </div>
@@ -823,7 +833,7 @@
           <!-- Start Google Map -->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <!-- Start Map -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3656.165689415023!2d-46.636936000000006!3d-23.59839!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5b91f828f91d%3A0x1d093f20795db45b!2sInstituto+Saliba+%7C+Est%C3%A9tica+Dental+e+Mastiga%C3%A7%C3%A3o+Oral!5e0!3m2!1spt-BR!2sbr!4v1561405465735!5m2!1spt-BR!2sbr" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.1618442413805!2d-46.64197333502153!3d-23.598527934664492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5b91f828f91d%3A0x1d093f20795db45b!2sOdontologia%20Saliba%20%7C%20Est%C3%A9tica%20Dental%20e%20Mastiga%C3%A7%C3%A3o%20Oral!5e0!3m2!1spt-BR!2sbr!4v1568648187823!5m2!1spt-BR!2sbr" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             <!-- End Map -->
           </div>
           <!-- End Google Map -->
@@ -865,17 +875,17 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span><u>IS</u></span> Instituto Saliba</h2>
+                  <h2><span><u>OS</u></span> Odontologia Saliba</h2>
                 </div>
 
                 <p>35 anos levando sorrisos á vida das pessoas. Tratamentos individuais e humanizados, cuidamos de você e de sua família.</p>
                 <div class="footer-icons">
                   <ul>
                     <li>
-                      <a href="https://www.instagram.com/instituto_saliba/"><i class="fa fa-instagram"></i></a>
+                      <a href="https://www.instagram.com/odontologiasaliba/"><i class="fa fa-instagram"></i></a>
                     </li>
                     <li>
-                      <a href="https://www.facebook.com/esteticaoraledental/"><i class="fa fa-facebook"></i></a>
+                      <a href="https://www.facebook.com/odontologiasaliba/"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li>
                       <a href="https://api.whatsapp.com/send?phone=5511995030333"><i class="fa fa-whatsapp"></i></a>
@@ -895,7 +905,7 @@
                 </p>
                 <div class="footer-contacts">
                   <p><span>Tel:</span> (11)5572-9952/(11)99503-0333</p>
-                  <p><span>Email:</span> instituto.saliba@gmail.com</p>
+                  <p><span>Email:</span> odontologiasaliba@gmail.com</p>
                   <p><span>Horário de funcionamento:</span> Segunda á sexta das 8h30 ás 17h30</p>
                 </div>
               </div>
@@ -905,20 +915,20 @@
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
-                <h4><a href="https://www.instagram.com/instituto_saliba/">Instagram</a></h4>
+                <h4><a href="https://www.instagram.com/odontologiasaliba/">Instagram</a></h4>
                 <div class="flicker-img">
-                  <a href="https://www.instagram.com/p/BpZsH7ygfLN/"><img src="img/insta/insta-1.jpg" alt="10"></a>
-                  <a href="https://www.instagram.com/p/Bv4JKZ1l9Dv/"><img src="img/insta/insta-2.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/BxflPp4l0Al/"><img src="img/insta/insta-3.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/BwHiJSFFW5X/"><img src="img/insta/insta-4.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/Bx-pF7Ilzyk/"><img src="img/insta/insta-5.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/BzGaXQDlaWh/"><img src="img/insta/insta-6.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/BzGaSGOFSe_/"><img src="img/insta/insta-7.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/BzE_giMFnHE/"><img src="img/insta/insta-8.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/By_DBZTlOMg/"><img src="img/insta/insta-9.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/By-_NC-lsLv/"><img src="img/insta/insta-10.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/By_DchElnwl/"><img src="img/insta/insta-11.jpg" alt=""></a>
-                  <a href="https://www.instagram.com/p/BzE4Q9YFJAQ/"><img src="img/insta/insta-12.jpg" alt=""></a>
+                                    <a href="#"><img src="img/insta/insta-1.jpg" alt="10"></a>
+                  <a href="#"><img src="img/insta/insta-2.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-3.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-4.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-5.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-6.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-7.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-8.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-9.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-10.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-11.jpg" alt=""></a>
+                  <a href="#"><img src="img/insta/insta-12.jpg" alt=""></a>
                 </div>
               </div>
             </div>
@@ -932,7 +942,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Instituto Saliba - Estética Dental e Mastigação Oral
+                &copy; Odontologia Saliba - Estética Dental e Mastigação Oral
               </p>
             </div>
             <div class="credits">

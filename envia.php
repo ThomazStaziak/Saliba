@@ -2,14 +2,14 @@
 
 <html>
 	<head>
-		<title>Instituto Saliba</title>
+		<title>Odontologia Saliba</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<link rel="shortcut icon" href="img/favicon.png">
 
-	 <title>Sucesso! | Instituto Saliba</title>
+	 <title>Sucesso! | Odontologia Saliba</title>
     
 <?php
 //CAPTURA OS VALORES PASSADOS POR URL - HTTP 
@@ -23,7 +23,7 @@ $Mensagem=$_POST['Mensagem'];
 
 //INFORMAÇÕES DA HOSPEDAGEM PARA ENVIO 
 $Email_remetente = "$Email" ;
-$Email_destinatario = "instituto.saliba@gmail.com";
+$Email_destinatario = "odontologiasaliba@gmail.com";
 $Email_reply = "{$Email}";
 
 //CRIANDO EMAIL PARA ENVIO 
