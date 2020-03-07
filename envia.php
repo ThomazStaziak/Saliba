@@ -10,15 +10,15 @@ $Mensagem=$_POST['Mensagem'];
 
 //INFORMAÇÕES DA HOSPEDAGEM PARA ENVIO 
 $Email_remetente = "$Email" ;
-$Email_destinatario = "thostaziak@gmail.com";
+$Email_destinatario = "odontologiasaliba@gmail.com";
 $Email_reply = "{$Email}";
 
 //CRIANDO EMAIL PARA ENVIO 
 
 $Email_assunto = "Novo contato pelo site";
-$Email_conteuto = "Nome = {$Nome} \n";
-$Email_conteuto .= "Email = {$Email} \n";
-$Email_conteuto .= "Mensagem = {$Mensagem} \n";
+$Email_conteuto = "Nome = {$Nome} <br/>";
+$Email_conteuto .= "Email = {$Email} <br/>";
+$Email_conteuto .= "Mensagem = {$Mensagem} <br/>";
 $HeaderArray = array("from: $Email_remetente", //Queme está enviando o e-mail no servidor  
 "Reply-To:$Email_assunto", //E-mail para resposta
 "Subject: $Email_assunto", //Titulo do E-mail
