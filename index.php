@@ -842,7 +842,7 @@
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="form contact-form">
               <div id="sendmessage">Sua mensagem foi enviada, responderemos em breve. Muito obrigado!</div>
-              <div id="errormessage"></div>
+              <div id="errormessage">Falha ao enviar mensagem, tente novamente em alguns instantes!</div>
               <form method="post" action="envia.php" role="form" class="contactForm">
                 <div class="form-group">
                   <input type="text" name="Nome" class="form-control" id="name" placeholder="Seu Nome" data-rule="minlen:4" data-msg="Digite seu nome" />
